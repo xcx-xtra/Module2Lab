@@ -1,0 +1,15 @@
+C:\Users\Heatn\OneDrive\Desktop\Softeware Capstone\Module2Lab\PizzaPartyCalculator\bin\Debug\net9.0\PizzaPartyCalculator.exe
+C:\Users\Heatn\OneDrive\Desktop\Softeware Capstone\Module2Lab\PizzaPartyCalculator\bin\Debug\net9.0\PizzaPartyCalculator.deps.json
+C:\Users\Heatn\OneDrive\Desktop\Softeware Capstone\Module2Lab\PizzaPartyCalculator\bin\Debug\net9.0\PizzaPartyCalculator.runtimeconfig.json
+C:\Users\Heatn\OneDrive\Desktop\Softeware Capstone\Module2Lab\PizzaPartyCalculator\bin\Debug\net9.0\PizzaPartyCalculator.dll
+C:\Users\Heatn\OneDrive\Desktop\Softeware Capstone\Module2Lab\PizzaPartyCalculator\bin\Debug\net9.0\PizzaPartyCalculator.pdb
+C:\Users\Heatn\OneDrive\Desktop\Softeware Capstone\Module2Lab\PizzaPartyCalculator\obj\Debug\net9.0\PizzaPartyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heatn\OneDrive\Desktop\Softeware Capstone\Module2Lab\PizzaPartyCalculator\obj\Debug\net9.0\PizzaPartyCalculator.AssemblyInfoInputs.cache
+C:\Users\Heatn\OneDrive\Desktop\Softeware Capstone\Module2Lab\PizzaPartyCalculator\obj\Debug\net9.0\PizzaPartyCalculator.AssemblyInfo.cs
+C:\Users\Heatn\OneDrive\Desktop\Softeware Capstone\Module2Lab\PizzaPartyCalculator\obj\Debug\net9.0\PizzaPartyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Heatn\OneDrive\Desktop\Softeware Capstone\Module2Lab\PizzaPartyCalculator\obj\Debug\net9.0\PizzaPartyCalculator.sourcelink.json
+C:\Users\Heatn\OneDrive\Desktop\Softeware Capstone\Module2Lab\PizzaPartyCalculator\obj\Debug\net9.0\PizzaPartyCalculator.dll
+C:\Users\Heatn\OneDrive\Desktop\Softeware Capstone\Module2Lab\PizzaPartyCalculator\obj\Debug\net9.0\refint\PizzaPartyCalculator.dll
+C:\Users\Heatn\OneDrive\Desktop\Softeware Capstone\Module2Lab\PizzaPartyCalculator\obj\Debug\net9.0\PizzaPartyCalculator.pdb
+C:\Users\Heatn\OneDrive\Desktop\Softeware Capstone\Module2Lab\PizzaPartyCalculator\obj\Debug\net9.0\PizzaPartyCalculator.genruntimeconfig.cache
+C:\Users\Heatn\OneDrive\Desktop\Softeware Capstone\Module2Lab\PizzaPartyCalculator\obj\Debug\net9.0\ref\PizzaPartyCalculator.dll
